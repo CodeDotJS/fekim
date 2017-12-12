@@ -17,7 +17,7 @@ $ npm install --global fekim
 
 ## Preview
 
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rishigiridotcom/rishigiri.com/6881ee56e82f529c781b8e1a218b463c5ae94ef0/github/ezgif-4-f918bf519b.gif"></p>
 
 
 ## Usage
