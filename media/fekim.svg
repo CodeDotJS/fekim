@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fekim.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-273.22226"
+     inkscape:cy="4827.1274"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:434.28970337px;line-height:125%;font-family:'Lemon Tuesday';-inkscape-font-specification:'Lemon Tuesday';letter-spacing:0px;word-spacing:0px;fill:#1f1b25;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-618.58484"
+       y="-4892.2881"
+       id="text4136"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1257684,0.88828219)"
+       inkscape:export-xdpi="20.003942"
+       inkscape:export-ydpi="20.003942"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="-618.58484"
+         y="-4892.2881">fekim</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.72422028px;line-height:125%;font-family:Purisa;-inkscape-font-specification:Purisa;letter-spacing:0px;word-spacing:0px;fill:#e1b269;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-1253.5735"
+       y="-3752.2307"
+       id="text4140"
+       sodipodi:linespacing="125%"
+       transform="scale(0.95231592,1.0500717)"
+       inkscape:export-xdpi="20.003942"
+       inkscape:export-ydpi="20.003942"><tspan
+         sodipodi:role="line"
+         id="tspan4142"
+         x="-1253.5735"
+         y="-3752.2307">fake and weak image link generator</tspan></text>
+  </g>
+</svg>
